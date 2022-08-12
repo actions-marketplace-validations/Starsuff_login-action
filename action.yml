@@ -1,5 +1,5 @@
 # https://help.github.com/en/articles/metadata-syntax-for-github-actions
-name: 'Docker Login'
+name: 'AceCompany'
 description: 'GitHub Action to login against a Docker registry'
 author: 'docker'
 branding:
