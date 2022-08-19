@@ -7,6 +7,7 @@ module.exports = {
   testRunner: 'jest-circus/runner',
   transform: {
     '^.+\\.ts$': 'ts-jest'
-  },
-  verbose: false
-}
+  } ,
+  verbose : false
+} ;
+ 
